@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453417620 source:c:\users\oscar cardona\documents\programacion de sistemas\programa5\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

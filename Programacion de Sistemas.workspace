@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Programa1/Programa1.cbp" />
+		<Project filename="Programa2/Programa2.cbp" />
+		<Project filename="Programa3/Programa3.cbp" />
+		<Project filename="Programa4/Programa4.cbp" />
+		<Project filename="Programa5/Programa5.cbp" />
+		<Project filename="Programa6/Programa6.cbp" />
+		<Project filename="Programa7/Programa7.cbp" />
+		<Project filename="Programa8/Programa8.cbp" />
+		<Project filename="Tarea1/Tarea1.cbp" />
+		<Project filename="Programa10/Programa10.cbp" />
+		<Project filename="Programa11/Programa11.cbp" />
+		<Project filename="Programa12/Programa12.cbp" />
+		<Project filename="ValidarNumero/ValidarNumero.cbp" />
+		<Project filename="DoWhile/DoWhile.cbp" />
+		<Project filename="Funciones/Funciones.cbp" />
+		<Project filename="Funciones_Turnos/Funciones_Turnos.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

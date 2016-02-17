@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453329917 source:c:\users\oscar cardona\documents\programacion de sistemas\programa2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
