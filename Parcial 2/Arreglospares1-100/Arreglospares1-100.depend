@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1457046489 source:c:\users\oscar cardona\documents\univerdad\programacion de sistemas\arreglospares1-100\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1457565380 source:c:\users\oscar cardona\documents\univerdad\programacion de sistemas\estructuraarreglo\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

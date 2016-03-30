@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457562835 source:c:\users\oscar cardona\documents\univerdad\programacion de sistemas\bidipromediopares\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

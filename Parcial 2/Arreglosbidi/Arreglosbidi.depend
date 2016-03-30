@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457477642 source:c:\users\oscar cardona\documents\univerdad\programacion de sistemas\arreglosbidi\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

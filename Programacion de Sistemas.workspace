@@ -17,5 +17,6 @@
 		<Project filename="DoWhile/DoWhile.cbp" />
 		<Project filename="Funciones/Funciones.cbp" />
 		<Project filename="Funciones_Turnos/Funciones_Turnos.cbp" />
+		<Project filename="Planilla/Planilla.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

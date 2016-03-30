@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458081192 source:c:\users\oscar cardona\documents\univerdad\programacion de sistemas\prueba2_parcial2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

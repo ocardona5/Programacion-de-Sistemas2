@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1457392356 source:c:\users\oscar cardona\documents\univerdad\programacion de sistemas\pruebax\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
